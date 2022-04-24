@@ -16,3 +16,6 @@ An exercise project to practice react, redux, fetching api, pagination
 ### Time used:
 Main structure: about 2 hours  
 Implement pagination system: about 2 hours
+
+### Demo:
+![image](https://github.com/DeltaLF/github_user_list_exercise/blob/main/github_user_list_exercise_demo.gif)
