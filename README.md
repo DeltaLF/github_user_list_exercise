@@ -1,4 +1,4 @@
-# Github user lsit api exercise
+# Github user list api exercise
 
 React-router + React-redux + Redux-thunk + Github api + Pagination + User Detail page
 
